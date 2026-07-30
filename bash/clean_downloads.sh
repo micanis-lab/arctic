@@ -1,1 +1,1 @@
-find downloads unpack render_out outputs -delete # clear dry run data
+find downloads unpack -delete # clear downloaded and unpacked data
